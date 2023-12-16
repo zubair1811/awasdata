@@ -1,2 +1,0 @@
-# awasdata
-data
